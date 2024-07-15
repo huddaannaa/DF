@@ -8,7 +8,7 @@ In today's interconnected world, data can originate from myriad sources, both di
 
 #### Diagram
 
-![HLD](./Huds_DFIR_diagrams_notes-identification of sources.jpg)
+![HLD](./Huds_DFIR_diagrams_notes-identification-of-sources.jpg)
 
 
 #### Objects and Data Sources
