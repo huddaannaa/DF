@@ -6,6 +6,11 @@ Digital Forensics and Incident Response (DFIR) is a critical field in cybersecur
 #### Introduction
 In today's interconnected world, data can originate from myriad sources, both digital and non-digital. Understanding the flow of this data is essential for effective digital forensics and incident response. This paper provides a detailed look at how data is processed from its origin to its final state as evidence.
 
+#### Diagram
+
+![HLD](./Huds_DFIR_diagrams_notes-identification of sources.jpg)
+
+
 #### Objects and Data Sources
 The process begins with **Objects**, representing any item that can hold data. These objects are broadly classified into:
 
