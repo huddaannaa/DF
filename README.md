@@ -1,1 +1,1 @@
-# DF
+This repository contains comprehensive guides and detailed explorations on digital forensics and incident response. Topics include data flow processes, the structure of digital evidence in storage media, and the use of hexadecimal representation for data analysis. These documents provide essential knowledge and techniques for forensic investigators.
