@@ -1,8 +1,8 @@
 
 ### The Detailed Structure of Digital Evidence in Storage Media: Hexadecimal Representation
 
-#### John Doe
-#### Department of Computer Science, University of Example
+#### Hud Seidu Daannaa
+#### www.daannaa.space
 
 #### Abstract
 Digital Forensics and Incident Response (DFIR) involves the identification, collection, analysis, and preservation of digital evidence. This paper explores the detailed structure of digital evidence in storage media, focusing on the representation of data in hexadecimal format for easier analysis. Understanding how data is stored and represented in different formats is crucial for effective digital forensics.
