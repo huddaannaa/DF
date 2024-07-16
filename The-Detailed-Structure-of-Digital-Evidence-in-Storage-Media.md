@@ -1,4 +1,6 @@
 ### The Detailed Structure of Digital Evidence in Storage Media
+#### Hud Seidu Daannaa
+#### www.daannaa.space
 
 #### Abstract
 Digital Forensics and Incident Response (DFIR) involves the identification, collection, analysis, and preservation of digital evidence. This paper explores the detailed structure of digital evidence in storage media, explaining the hierarchy from files to the smallest storage units, emphasizing the importance of understanding each layer for effective digital forensics.
