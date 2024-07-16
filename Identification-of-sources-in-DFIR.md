@@ -1,5 +1,6 @@
 ### The Comprehensive Guide to Data Flow in Digital Forensics and Incident Response
-
+#### Hud Seidu Daannaa
+#### www.daannaa.space
 #### Abstract
 Digital Forensics and Incident Response (DFIR) is a critical field in cybersecurity, focusing on the identification, collection, analysis, and preservation of digital evidence. This paper explores a conceptual model illustrating the flow of data from various sources, through different states, to its final classification and prioritization as evidence.
 
