@@ -10,7 +10,7 @@ Digital Forensics and Incident Response (DFIR) involves the identification, coll
 #### Introduction
 In digital forensics, analyzing the data stored on storage media is a fundamental task. This paper provides a detailed explanation of how data is represented and analyzed using hexadecimal editors. The focus is on understanding the transition from binary data to more readable formats such as ASCII, hexadecimal, and decimal.
 
-![HLD](./hex-flow.jpg)
+![HLD](./HLD/hex-flow.jpg)
 
 #### Digital Evidence Structure in Storage Media
 
