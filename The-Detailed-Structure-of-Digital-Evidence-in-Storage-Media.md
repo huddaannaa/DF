@@ -9,7 +9,7 @@ Digital Forensics and Incident Response (DFIR) involves the identification, coll
 Understanding the structure of digital evidence in storage media is crucial for effective digital forensics and incident response. This paper provides a detailed look at the various layers of storage media, from high-level files to low-level sectors, highlighting the importance of each layer in the context of digital evidence.
 
 #### Diagram
-![HLD](./digital-evidence-hdd-storage.jpg)
+![HLD](./HLDs/digital-evidence-hdd-storage.jpg)
 #### Digital Evidence Structure in Storage Media
 The structure of digital evidence in storage media can be broken down into several hierarchical layers, each playing a critical role in the storage and retrieval of data.
 
