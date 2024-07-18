@@ -1,6 +1,3 @@
-
-
-```python
 def extract_mbr_sections(filename):
     # Define the size of a disk sector
     SECTOR_SIZE = 512  # bytes
@@ -65,4 +62,3 @@ def extract_mbr_sections(filename):
 
 # Example usage:
 # extract_mbr_sections('mbr_image.bin')
-```
