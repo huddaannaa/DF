@@ -14,6 +14,10 @@ Digital Incident Scene Investigation (DISI) is a critical aspect of digital fore
 #### Introduction
 Digital incidents involve any events where digital devices are part of the crime scene. Understanding the process of investigating these incidents is crucial for forensic analysts. This story outlines the stages of Digital Incident Scene Investigation (DISI), emphasizing the importance of each step in ensuring comprehensive and accurate forensic analysis.
 
+#### Diagram
+
+![HLD](./HLDs/introduction-to-DISI.jpg)
+
 The process of Digital Incident Scene Investigation is structured into several key stages, each playing a vital role in the overall investigation.
 
 | Stage            | Description                                                                                       | Example                                 |
