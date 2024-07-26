@@ -3,11 +3,6 @@
 #### Hud Daannaa
 #### www.daannaa.space
 
-### The Story of a Digital Incident Scene Investigation
-
-#### Hud Daannaa
-#### www.daannaa
-
 #### Abstract
 Digital Incident Scene Investigation (DISI) is a critical aspect of digital forensics, involving the systematic approach to investigating incidents involving digital devices. This story explores the stages of DISI, from preparation to presentation, detailing the processes involved in acquiring and examining digital evidence.
 
